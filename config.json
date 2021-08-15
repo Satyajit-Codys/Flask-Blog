@@ -1,0 +1,11 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/myblog",
+        "prod_uri": "mysql://root:@localhost/myblog",
+        "no_of_posts": 2,
+        "login_image":"logo.jpg",
+        "blog_name": "Flask Blog"
+    }
+}
