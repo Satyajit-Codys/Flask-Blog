@@ -2,7 +2,7 @@
 
 A blog website using the Flask web framework. Flask is a lightweight and flexible framework that allows developers to create web applications quickly and easily. This blog website will be a platform for bloggers to share their thoughts and ideas with the world.
 
-# Features:
+## Features:
 
 User Registration and Login:
 Users can register and create a profile on the blog website. They can also log in and access their profile anytime. The user authentication system will ensure that only registered users can create blog posts and comments.
@@ -28,7 +28,7 @@ The blog website will be responsive, which means it will be optimized for all de
 Admin Panel:
 The blog website will have an admin panel where the website administrator can manage users, blog posts, comments, and other website settings.
 
-# Technologies:
+## Technologies:
 The following technologies will be used to develop the blog website:
 
 Flask: The web framework that will be used to develop the blog website.
